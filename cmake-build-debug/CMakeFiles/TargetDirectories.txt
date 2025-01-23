@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/School/sept 2024/Introduction to prgramming (C++)/Final code/cmake-build-debug/CMakeFiles/Final_code.dir
+C:/Users/USER/Documents/School/sept 2024/Introduction to prgramming (C++)/Final code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/School/sept 2024/Introduction to prgramming (C++)/Final code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

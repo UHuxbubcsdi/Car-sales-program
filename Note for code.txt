@@ -1,0 +1,62 @@
+#include <iostream>
+// Input/Output functionality
+// Used for: cout, cin, input/output operations
+
+#include <vector>
+// Dynamic array functionality
+// Used for: storing cars, sales, and feedback dynamically
+
+#include <string>
+// String handling
+// Used for: storing text data like car models, customer names
+
+#include <algorithm>
+// Algorithms library
+// Used for: sort() function for sorting cars and sales data
+
+#include <fstream>
+// File handling
+// Used for: reading/writing sales data to files
+
+#include <ctime>
+// Time and date functionality
+// Used for: getting current date for sales and feedback
+
+#include <iomanip>
+// Input/output manipulation
+// Used for: formatting output tables, setting decimal precision
+
+#include <map>
+// Map container
+// Used for: grouping sales data by car model
+
+#include <sstream>
+// String stream
+// Used for: converting between strings and numbers, parsing data
+
+#include <limits>
+// Numeric limits
+// Used for: input validation, clearing input buffer
+
+#include <cstring>
+// C-style string functions
+// Used for: some string manipulations
+
+#include <cctype>
+// Character type functions
+// Used for: checking if characters are letters, spaces (input validation)
+
+
+Created an encryption key 
+Creates 3 classes for code
+Called global varaibles within a dynamic vector rather than static array so no limit on number of cars, managed memory,prevents memory leaks, can add unlimited sales records 
+Created an inventory with sample data
+Created the main menu 
+Create a function to sort and display car stock, handle car purchases and display header 
+Find the car in inventory
+Get customer info
+Calculate price and discount
+Confirm purchase 
+Update inventory and record sale using emplace_back instead of push_back which Constructs a new Sale object directly in the vector's memory space without avoiding any unnecessary copying or moving of objects.
+Get customer feedback 
+clearInputBuffer(); clears any leftover character in the input buffer 
